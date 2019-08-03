@@ -1,0 +1,86 @@
+<!DOCTYPE html >
+<html  lang="en" xml:lang="es">
+<head>
+<title>Inicio</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="css/screen.css" media="screen" />
+</head>
+<body>
+<div id="wrapper">
+
+  <center>  <div id="logo">
+   <img  src="images/Sin%20t%C3%ADtulo-2.gif"> <h1>  <a href="#">Liga BBVA</a></h1>
+    </div>
+    </center>
+    <div id="clr">
+ 
+  <div class="content">
+    <ul id="menu">
+      <li><a class="current" href="index.html">Inicio</a></li>
+      <li><a href="campeonato.html">Campeonatos</a></li>
+      <li><a href="#">Equipo ideal</a></li>
+      <li><a href="#">Mejores jugadas</a></li>
+           <li><a href="contactenos.php">Contactenos</a></li>
+        </ul></div>
+  
+       
+    <div id="pitch">
+    
+<div id="contenedor">
+    <table><tr><td>
+     <div class="campeon">
+    <img src="images/logobarce.png" alt="Barcelona" width="35" height="35">
+    <h1>Temporada 2015-2016</h1>
+    <strong>Campeón</strong> : Barcelona<br>
+    <strong>Subcampeón</strong> : Atletico de Madrid
+        </div><br><br></td><td>
+       <div class="campeon">
+    <img src="images/logobarce.png" alt="Barcelona" width="35" height="35">
+    <h1>Temporada 2014-2015</h1>
+    <strong>Campeón</strong> : Barcelona<br>
+    <strong>Subcampeón</strong> : Real Madrid
+    </div><br><br></td></tr>
+        <tr><td>
+     <div class="campeon">
+    <img src="images/atlentico.png" alt="Barcelona" width="35" height="35">
+    <h1>Temporada 2013-2014</h1>
+    <strong>Campeón</strong> :  Atletico de Madrid<br>
+    <strong>Subcampeón</strong> : Barcelona
+    </div><br><br></td><td>
+     <div class="campeon">
+    <img src="images/logobarce.png" alt="Barcelona" width="35" height="35">
+    <h1>Temporada 2012-2013</h1>
+    <strong>Campeón</strong> : Barcelona<br>
+    <strong>Subcampeón</strong> : Real Madrid
+    </div></td></tr>
+    
+    </table>
+    
+    </div>
+        
+        
+        
+        </div>
+      
+     
+      
+      
+    </div>
+    
+
+
+  <div id="footer">
+      <table borde="1">
+          <tr>
+          <td><a href="https://es-la.facebook.com/" target="_blank"><img src="images/face.png"></a></td>
+           <td><a href="https://twitter.com/?lang=es" target="_blank"><img src="images/tei.ico"></a></td>
+           <td> <a href="https://www.youtube.com/?gl=PE&hl=es-419" target="_blank"><img src="images/you.png"> </a></td>
+          <td>Derechos Reservado por Angie Perales @</td>
+          
+          </tr></table>
+
+  </div>
+</div>
+       
+</body>
+</html>

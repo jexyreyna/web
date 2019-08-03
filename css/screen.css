@@ -1,0 +1,255 @@
+
+* {
+ margin: 0; 
+ padding: 0; }
+body {
+
+ font: .74em Tahoma, Verdana, Sans-Serif, Arial;
+ background: url(../images/font.jpg) repeat;
+  color: #7f7f7f;
+    background-size: cover;
+   }
+
+h3 {
+ font: normal 1.4em "Trebuchet MS", Helvetica, Arial; 
+ margin: 0 0 20px;
+  }
+
+p { 
+	margin: 0 0 15px;
+	 line-height: 1.6em; 
+	}
+a { 
+	outline: 0;
+	 color: #304D6F;
+	  text-decoration: none; 
+	}
+li { 
+	list-style: none;
+	 }
+li a, img { 
+	display: block;
+	 }
+img { 
+    outline: 0;
+     border: 0;
+      }
+#pagina {
+ width: 984px;
+
+ margin: auto;
+  }
+#clr { 
+	width: 1000px;
+ }
+#logo {
+ float: center; 
+ padding: 30px 15px;
+ width :1000px;
+ 
+  }
+	#logo h1 a { 
+		color: #fff;
+			font: normal 6em "Trebuchet MS", Helvetica, Arial; 
+		
+		 }
+		#logo h1 a span {
+		 color: #808080; 
+		 
+		}
+#logo img{
+    float: left;
+    width: 200px;
+}
+#menu {
+    width:1000px;
+ height: 44px;
+  padding: 3px 5px 4px 4px;
+    background-color: #333;
+    float: right;
+  
+   }
+	#menu li { 
+        width:180px;
+		float: left; 
+		font-size: 20px; 
+	font-family: cursive;
+        list-style: none;
+	}
+		#menu li a {
+		 color: #fff; 
+		 margin: 0 25px 0 0; 
+            display:block;
+		}
+			#menu li a.current, #menu li a:hover {
+			 color:#FA5882; 
+			}			
+	#pitch { 
+		clear: both;
+        width:640px;
+		background-color:#D8D8D8;
+		 height: 555px; 
+		 margin: 15px 10px 30px; 
+		 padding: 60px 360px 15px 30px;
+        float:right;
+        border-radius: 50px;
+		  }
+#pith table h1{
+    
+    font-size: 100px;
+}
+#pitch table img{
+    width:110px;
+    height:125px;
+border :white 2px solid;
+    transition: all 2s;
+    -webkit-transition:all 2s;
+    -moz-transition:all 2s;
+    -o-transition:all 2s;
+}
+
+
+#pitch table img:hover{
+    transform: scale(1.3) rotate(15deg);
+    -webkit-transform:scale(1.3) rotate(15deg);
+    -moz-transform:scale(1.3) rotate(15deg);
+    -o-transform:scale(1.3) rotate(15deg);
+    z-index: 100;
+}
+
+#pitch table {
+    width:875px;
+    height:500px;
+    align-content: center;
+    font-size: 14px;
+    font-weight: bolder;
+}
+		
+#audio{
+   width: 10px;
+    display: none;
+}
+#footer {
+ clear: both;
+  background: url(../images/body.gif) ; 
+  padding: 20px 20px 10px;
+   font-size: .9em; 
+    color: aliceblue;
+}
+	#footer a img { color: #ccc;
+	 margin: 0 10px 0 0;
+	  border-bottom: 1px dotted #444;
+	   padding: 0 0 1px; 
+        width: 70px;
+        height: 70px;
+        
+	}
+#footer a img:hover{
+     animation-name:animacion1;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    cursor: pointer;
+}
+
+@keyframes animacion1{
+    0%{
+        transform: scale(1);
+    }
+    33%{
+        transform: scale(0.5);
+    }
+    66%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(1.5);
+    }
+}
+@-wbkit-keyframes animacion1{
+    0%{
+        transform: scale(1);
+    }
+    33%{
+        transform: scale(0.5);
+    }
+    66%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(1.5);
+    }
+}
+
+
+
+
+
+/* campeon______________________*/
+
+ 
+}
+.campeon{
+    cursor:pointer;
+
+}
+.campeon strong{
+    color: brown;
+    font-size: 15px;
+}
+.campeon h1{
+    color: #FA5882;
+    
+}
+.campeon:hover{
+    background-color: #FC0;
+    transform:scale(1.2);
+     -webkit-transform:scale(1.2) ;
+    -moz-transform:scale(1.2) ;
+    -o-transform:scale(1.2) ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
